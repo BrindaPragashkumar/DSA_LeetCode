@@ -31,7 +31,12 @@ class Solution(object):
         return True
 
 
- # all matched successfully
- #
+# class Solution(object):
+#     def isAnagram(self, s, t):
+#         if len(s) != len(t):
+#             return False
+#         return sorted(s) == sorted(t)
+
+
  
 
